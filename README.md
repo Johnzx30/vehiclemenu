@@ -1,6 +1,4 @@
-vehiclemenu
-
-Vehicle interaction menu opens with F7 and works only when you're in a vehicle.
+Vehicle interaction menu opens with F7 and works only when you're in a vehicle. Made by John
 
 ## Features
 
